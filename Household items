@@ -8,4 +8,8 @@ Console.WriteLine("Air Freshners");
 
 
 
+Console.WriteLine("FRIDGE");
+
+
 Console.WriteLine("FAN");
+ 
