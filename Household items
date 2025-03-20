@@ -4,3 +4,8 @@ Console.WriteLine("BED");
 Console.WriteLine("OVEN");
 Console.WriteLine("SOFA");
 Console.WriteLine("Air Freshners");
+
+
+
+
+Console.WriteLine("FAN");
