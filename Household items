@@ -1,0 +1,6 @@
+HouseHold Items:
+Console.WriteLine("TV");
+Console.WriteLine("BED");
+Console.WriteLine("OVEN");
+Console.WriteLine("SOFA");
+Console.WriteLine("Air Freshners");
